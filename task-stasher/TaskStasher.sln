@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stasher", "Stasher\Stasher.csproj", "{A8682A7F-FA64-44C6-8202-15E4C6343018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StasherConsole", "StasherConsole\StasherConsole.csproj", "{CEDF90C1-1D6D-4C91-8D2B-73167CD6B67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8682A7F-FA64-44C6-8202-15E4C6343018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8682A7F-FA64-44C6-8202-15E4C6343018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8682A7F-FA64-44C6-8202-15E4C6343018}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8682A7F-FA64-44C6-8202-15E4C6343018}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{CEDF90C1-1D6D-4C91-8D2B-73167CD6B67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDF90C1-1D6D-4C91-8D2B-73167CD6B67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDF90C1-1D6D-4C91-8D2B-73167CD6B67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDF90C1-1D6D-4C91-8D2B-73167CD6B67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B016676A-7088-46C8-818E-FD89C0485425}
+	EndGlobalSection
+EndGlobal

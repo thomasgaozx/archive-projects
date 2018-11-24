@@ -1,0 +1,10 @@
+﻿Task Stasher v1.0.1
+****Acknoledgement: This is a console application written by Thomas Gao.
+
+Task Stasher allows you to efficiently manage your long list of tasks without having to touch the mouse!
+You could easily add, view, schedule, prioritize, delay and archive a long list of tasks easily through keyboard.
+The Task Stasher also allows you to concentrate on the current task without distraction. 
+If distraction comes, prioritized or not, you could simply push them to the top of the stack.
+Remember to save the task data, the data would be safely stored in the 'main' directory. If some how the data are corrupted or went missing, you could always retrieve your old data in the 'copy' directory.
+
+Type 'help' to see a complete list of keyword and their purpose.

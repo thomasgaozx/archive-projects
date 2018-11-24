@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QdexCreator", "QdexCreator\QdexCreator.csproj", "{010FEE43-28EC-4F87-BE6B-28224DD20F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010FEE43-28EC-4F87-BE6B-28224DD20F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010FEE43-28EC-4F87-BE6B-28224DD20F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010FEE43-28EC-4F87-BE6B-28224DD20F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010FEE43-28EC-4F87-BE6B-28224DD20F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3CF1A7F-D70F-4D29-8204-17B41BD976B5}
+	EndGlobalSection
+EndGlobal
